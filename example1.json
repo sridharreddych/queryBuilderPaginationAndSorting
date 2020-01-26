@@ -1,0 +1,19 @@
+{
+  "pageNumber": 0,
+  "pageSize": 3,
+  "searchFitler": [
+    {
+      "operator": "=",
+      "property": "age",
+      "value": 32
+    }
+  ],
+  "sortOrder": {
+    "ascendingOrder": [
+      "firstName"
+    ],
+    "descendingOrder": [
+      "lastName"
+    ]
+  }
+}
